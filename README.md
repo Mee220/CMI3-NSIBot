@@ -1,5 +1,5 @@
 Introduction
-\nLes robots ne font que ce pour quoi ils sont programmés, ce qui complique leur adaptation à des environnements imprévus. Notre objectif : rendre le robot NSIbot intelligent en lui donnant 9 neurones (bien loin des 85 milliards du cerveau humain !)
+Les robots ne font que ce pour quoi ils sont programmés, ce qui complique leur adaptation à des environnements imprévus. Notre objectif : rendre le robot NSIbot intelligent en lui donnant 9 neurones (bien loin des 85 milliards du cerveau humain !)
 
 Importer les librairies :
 Si c'est votre première fois avec Arduino, un dossier Arduino a du être créé de par son installation dans votre dossier 'Documents'. Pour que les librairies Sharp-IR et Wire.h fonctionnent, vous devez créer un dossier 'libraries' dans le dossier Arduino et déplacer le Wire.h puis le SharpIR.zip avant de l'extraire.
